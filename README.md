@@ -23,9 +23,9 @@ Reusable C++ code snippets for string manipulation and more.
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: yourname@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌍 Website: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: fshaikh412544@gmail.com.com
+- 💼 LinkedIn: https://www.linkedin.com/in/faizan-mubarak-ali-shaikh-041721352/
+
 
 ---
 
